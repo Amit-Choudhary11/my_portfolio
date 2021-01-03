@@ -1,0 +1,166 @@
+body{
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+#pic{
+    width: 500px;
+    margin-bottom: 50px;
+    border-radius: 80%;
+}
+#myhobby{
+    position: absolute;
+    height: 800px;
+    overflow: hidden;
+    color: #ffffff;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    opacity: 0.83;
+    background: linear-gradient(#0e00ff 25%, #096079 50%, #03c0ce 75%, #00ff9d 100%);
+    display: table;
+    width: 100%;
+    height: 800px;
+    z-index: 9;
+}
+.sec1{
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+p{
+font-size: 25px;
+   font-family: 'Dancing Script', cursive;;
+    text-align: center;
+}
+.menu{
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+.links{
+display: inline;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
+.links:hover{
+  font-size: 30px;
+    text-decoration: underline;
+}
+.line{
+ height: 10;        
+    width: 80;
+    background-color: black;
+    margin: 8px auto;
+}
+#apps{
+    width: 100%;
+    height: 800px;
+    background-color: aqua;
+}
+
+#games{
+    width: 100%;
+    height: 800px;
+    background-color:  fuchsia;
+}
+img{
+    height: 500px;
+    width: 400px;
+    margin-top: 70;
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+.head{
+    font-size: 30px;
+    margin-top: 0px;
+}
+#chatbot{
+   width: 100%;
+    height: 800px;
+    background-color: aquamarine;
+}
+#chat{
+    margin-top: 50px;
+}
+p{
+color: black;
+font-size: 25px;
+}
+html{
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+    color: crimson;
+    text-shadow: 2px 2px gainsboro;
+}
+#writings a{
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    color: blue !important;
+}
+
+#contact iframe{
+    width: 100%;
+}
+#contact a{
+    color: black;
+    text-shadow: none;
+}
+#contact h3{
+    display: inline; 
+}
+#contact{
+    background-color: aqua
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
